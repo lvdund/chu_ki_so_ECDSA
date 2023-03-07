@@ -1,11 +1,11 @@
-# Nhom 19 - Demo SHA3 256
+# lvdund - Demo SHA3 256
 import hashlib
 import tkinter as tk
 from tkinter import ttk
 
 # Generate root instance
 root = tk.Tk()
-root.title("Nhom 19 - Demo SHA3 256")
+root.title("lvdund - Demo SHA3 256")
 root.geometry("500x80")
 
 

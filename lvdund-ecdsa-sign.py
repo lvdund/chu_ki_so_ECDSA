@@ -1,4 +1,4 @@
-# Nhom 19 - Demo ECDSA - sign message
+# lvdund - Demo ECDSA - sign message
 
 from pycoin.ecdsa import generator_secp256k1, sign
 import hashlib

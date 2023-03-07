@@ -1,4 +1,4 @@
-# Nhom 19 - Demo ECDSA - verify signature
+# lvdund - Demo ECDSA - verify signature
 
 from pycoin.ecdsa import generator_secp256k1, verify
 import hashlib
